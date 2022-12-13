@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @rockalber
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python projects 
+- 🌱I'm Also Working On React JS
+- 💞️ I’m looking to collaborate on React Js Projects.
+- ✨I can also ready to collaborate on Python Desktop Applications Projects.
 - 📫 How to reach me Snapchat @rockalber
 
 <!---
